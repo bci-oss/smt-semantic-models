@@ -53,8 +53,17 @@ The corresponding commands with **%1** being the .ttl with the Aspect Model and 
 >samm aspect %1 to json --output "../_gen/%2.json"
 >
 > samm aspect %1 to schema  --output "../_gen/%2-schema.json"
+>
+> samm aspect %1 to html --output "../_gen/%2.html"
 
 
+For creation of an .aasx file as preparation for the creation of a Submodel Template Specification the following commands are useful:
+>
+> samm aspect %1 to aas --format aasx --output "../_gen/%2.aasx"
+>
+> samm aspect %1 to aas --format json --output "../_gen/%2.aas.json"
+>
+> samm aspect %1 to aas --output "../_gen/%2.aas.xml"
 
 The following version of the **samm-cli - Semantic Aspect Meta Model Command Line Tool** was used for validation and generation:
 
