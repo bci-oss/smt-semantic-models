@@ -1,0 +1,22 @@
+{
+  "furtherInformation" : { },
+  "technicalProperties" : { },
+  "productClassifications" : [ {
+    "ProductClassificationSystem" : "ECLASS",
+    "ClassificationSystemVersion" : "9.0 (BASIC)",
+    "ProductClassId" : "27-01-88-77"
+  } ],
+  "generalInformation" : {
+    "ManufacturerName" : "idBi",
+    "ManufacturerLogo" : "https://example.com/NhfoAKD",
+    "ManufacturerProductDesignation" : [ {
+      "en" : "tM"
+    } ],
+    "ManufacturerArticleNumber" : "V",
+    "ManufacturerOrderCode" : "rD6",
+    "ProductImages" : [ {
+      "value" : "https://example.com/SafetyInstructions.pdf",
+      "contentType" : "application/pdf"
+    } ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "GeneralInformation" : {
+    "ManufacturerName" : "3",
+    "CompanyLogo" : "https://example.com/hXOdgimwL",
+    "ManufacturerProductDesignation" : [ {
+      "en" : "J"
+    } ],
+    "ManufacturerArticleNumber" : "HyAYtR0NH",
+    "ManufacturerOrderCode" : "4zBFwcN",
+    "ProductImages" : [ {
+      "ImageFile" : {
+        "value" : "https://example.com/SafetyInstructions.pdf",
+        "contentType" : "application/pdf"
+      },
+      "ImageNote" : [ {
+        "de" : "KAJW0Fo"
+      } ]
+    } ]
+  },
+  "ProductClassifications" : [ {
+    "ProductClassificationSystem" : "ECLASS",
+    "ClassificationSystemVersion" : "9.0 (BASIC)",
+    "ClassificationSystemUrl" : "nf0I",
+    "ProductClassId" : "27-01-88-77",
+    "ProductClassCodedName" : "YI",
+    "ProductClassName" : [ {
+      "de" : "hD"
+    } ],
+    "ReferenceToTechnicalPropertyArea" : {
+      "keys" : [ {
+        "key" : "GlobalReference",
+        "value" : "id1234"
+      } ],
+      "type" : "ExternalReference"
+    }
+  } ],
+  "TechnicalPropertyAreas" : { },
+  "FurtherInformation" : {
+    "TextStatement" : [ {
+      "en" : "j2fwGT"
+    } ],
+    "ValidDate" : "2026-02-26T15:14:38.000Z"
+  },
+  "SpecificDescriptions" : [ { } ]
+}
